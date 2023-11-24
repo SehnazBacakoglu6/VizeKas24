@@ -5,7 +5,7 @@ test_that("Workspace'teki tüm değişkenleri silme", {
   expect_equal(length(ls()), 0)
 })
 
-source("Labex2_Q1_200401076_sehnaz_bacakoglu.R")
+source("Vize_Q1_200401076_sehnaz_bacakoglu.R")
 
 # Test 1.1
 test_that("spotify_token variable exists", {
